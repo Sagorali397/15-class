@@ -1,0 +1,296 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+.game{
+	background-image:url (https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/coding-background-texture.jpg),
+	
+	
+}
+.overly{background:linear-gradient(#474ab6 0%,#9271f6 100%);
+	background-color:rgb(0,0,0,0.7);
+	overflow:hidden;
+	padding:100px 0px;
+}
+.container{
+	width:80%;
+	margin:auto;
+}
+.coll-2{
+	width:50%;
+	float:left;
+}
+.coll-2 img{
+	width:400px;
+	height:200px;
+	padding:50px;
+	display:block;
+}
+.coll-2 h3{font-size:30px;
+	color:#fff;
+	
+}
+.coll-2 p{
+	color:#8EAAFC;
+	margin-top:30px;
+	margin-bottom:50px;
+}
+ 	color:#fff;
+.btn{
+	background:#09E1C0;
+	padding:15px 30px;
+	text-decoration:none;
+	border-radius:20px;
+}
+.btn:hover{color:#DB0D15;
+	padding:15px 45px 15px 30px;
+	background:#09E1C0;
+	transition:1s all;
+	
+}
+/* end --fast-- section*/
+/* start --2nd-- section*/
+
+.Courses{
+	padding:100px 0px;
+	background-color:#fff;
+	overflow:hidden;
+	
+	
+}
+
+.dil-3{
+	padding: 0px;
+	width: 40%;
+	float: left;
+	
+}
+.dil-3 h1{
+	color:blue;
+}
+
+.dil-3 h4{ 
+margin-top:50px;
+	color:black;
+	
+}
+.dil-3 p{
+	coloe:red;
+	margin-top:20px;
+	margin-bottom:30px;
+}
+
+.btn{
+	background:#09E1C0;
+	padding:15px 30px;
+	text-decoration:none;
+	border-radius:20px;
+}
+.btn:hover{color:#DB0D15;
+	padding:15px 45px 15px 30px;
+	background:#09E1C0;
+	transition:1s all;
+	
+}
+.dil-2{
+	
+	width: 60%;
+	float: left;
+	box-shadow:3px 3px 7px 9px #18292e36;
+}
+
+.s-1{
+	width: 50%;
+	float: left;
+	margin:auto;
+	
+}
+.rot{padding:20px;
+	border-bottom:1px solid #696969;
+	border-right:1px solid #696969;
+}
+.rot img{width:55px;
+	height:auto;
+	margin-top:25px;
+	display:inline-block;
+	float:left;
+}
+
+.rot h2{color:#596C9C;
+	font-size:17px;
+	margin-left:90px;
+	
+}
+.rot p{color:#AEB8DE;
+	font-size:12px;
+	display:block;
+	margin-left:90px;
+	margin-top: 13px;
+    line-height: 1.5;
+}
+/* end --2nd-- section*/
+/*---expart--3d--section*/
+.expert{
+	background:#7C68E1;
+	padding:100px 150px;
+	overflow:hidden;
+}
+
+.rol-2{
+	width:50%;
+	float:left;
+	
+}
+.rol-2 img{
+	width:400px;
+	height:auto;
+	padding:20px;
+	
+}
+.rol-2 h1{
+	color:#fff;
+	font-size:30px;
+	
+}
+ .rol-2 hr{
+	width:35px;
+	height:2px;
+	margin-top:40px;
+}
+.rol-2  p{
+	font-size:20px;
+	color:#ffffffc4;
+	margin-top:30px;
+	margin-bottom:50px;
+}
+/*---expart--3d--section*/
+/*---learn--4th--section*/
+.learn{
+	margin:80px;
+	overflow:hidden;
+	
+}
+.nor-5{
+	width:50%;
+	float:left;
+	
+}
+.ko-2 img{
+	width:50px !important;
+	
+	
+}
+
+.nor-5 h1{
+	color:blue;
+	font-size:30px;
+}
+.nor-5 hr{
+	width:35px;
+	height:2px;
+	margin-top:30px;
+}
+.nor-5 h4{
+	color:blue;
+	margin-top:35px;
+	margin-bottom:35px;;
+	
+}
+.nor-5 p{
+	color:#0000ff69;
+	
+}
+.nor-5 img{
+	width:400px;
+	height:auto;
+	padding:20px;
+	
+}
+/* end --3rd-- section*/
+/*---portfolio--4rt- start--section*/
+.portfolio {padding:50px 0px;
+			overflow:hidden;
+	
+	
+}
+/*---portfolio--4rt- end--section*/
+/*---achieve--5rt- start--section*/
+
+.achieve {padding:50px 0px;
+			overflow:hidden;
+}
+/*achieve--5rt- end--section*/
+
+/*trem----start*/
+.trem{padding:0;
+	background-image:https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/coding-background-texture.jpg),;
+}
+.or{padding:0;
+	background:linear-gradient(#474ab6 0%,#9271f6 100%);
+	overflow:hidden;
+	
+}
+
+
+.container{
+	width:80%;
+	margin:auto;
+	box-shadow:3px 3px 80px 9px #18292e36;
+}
+.ree{
+	width:50%;
+	float:left;
+	margin-top:100px;
+	
+}
+
+
+.ree img{ width:20px;
+	
+	
+}
+. bb{
+	display:inline-block;
+	
+}
+	/*trem----end*/
+
+
+@media(max-width:1024px){
+	
+	.coll-2{
+	width:100%;
+	float:none;
+	}
+	
+	.dil-3{
+	
+	width: 100%;
+	float: none;
+	}
+	
+	.s-1{
+	width: 100%;
+	float: none;
+		
+	}
+	.coll-2 img{
+	width:250px;
+	
+	}
+.dil-2{
+	margin-top:35px;
+	
+}
+.rol-2{
+	width:100%;
+	float:none;
+}
+
+.rol-2 img{
+	width:200px;
+	
+	
+}
+}
